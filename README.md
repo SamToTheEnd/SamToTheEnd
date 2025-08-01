@@ -21,7 +21,7 @@
                                          Email.Personal: samuelmathews2187@gmail.com
                                          Email.University: zmac268@live.rhul.ac.uk
                                          Website: samuelmathews.co.uk
-                                         LinkedIn: samuel-mathews-411483279
+                                         LinkedIn: samuel mathews
                                          
                                        
 ```
