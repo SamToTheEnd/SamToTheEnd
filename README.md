@@ -20,7 +20,7 @@
                                          Contact ──────────────────────────────────────────────
                                          Email.Personal: samuelmathews2187@gmail.com
                                          Email.University: zmac268@live.rhul.ac.uk
-                                         Website: samuelmathews.co.uk
+                                         Website: sammathews.co.uk
                                          LinkedIn: samuel mathews
                                          
                                        
